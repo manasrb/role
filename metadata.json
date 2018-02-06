@@ -1,0 +1,15 @@
+{
+  "name": "manas-role",
+  "version": "0.1.0",
+  "author": "manas",
+  "summary": "This is role for my puppet",
+  "license": "Apache-2.0",
+  "source": "https://github.com/manasrb/role.git",
+  "project_page": "https://github.com/manasrb/role",
+  "issues_url": "https://github.com/manasrb/role/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
